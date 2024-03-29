@@ -10,8 +10,8 @@ of venturing into agriculture as this will help in fighting food scarcity and su
 TEAM MEMBERS:
 ------------------------------------
 Members of the Team includes:
-1. Oluwapemi Oripeloye-oluwapemimary@gmail.com
-2. Ayodele Akinyode-akinyodeayodelecareer@gmail.com
+1. Oluwapemi Oripeloye: oluwapemimary@gmail.com
+2. Ayodele Akinyode: akinyodeayodelecareer@gmail.com
 
 TECHNOLOGY USED:
 ------------------------------------
